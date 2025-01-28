@@ -35,8 +35,8 @@ Ce projet inclut plusieurs livrables clés :
 2. **Présentation professionnelle** :
    - Présentation résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
 
-2. **Rapport de Synthèse** :
-   - Rapport synthétique résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
+3. **Rapport de Synthèse** :
+   - Rapport détaillé présentant la résolution du business case avec recommandations stratégiques, [lien direct](./rapports/rapport_synthese.md).
 
 3. **Dashboard Power BI** :
    - Une interface interactive permettant d'explorer les KPIs et les visualisations détaillées [lien vers le fichier](./rapports/Market-Price-Retail.pbix)
