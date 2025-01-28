@@ -33,6 +33,9 @@ Ce projet inclut plusieurs livrables clés :
    - Notebook EDA, accessible via ce [lien](./notebooks/eda.ipynb) ([version md](./docs/eda.md)).
 
 2. **Présentation professionnelle** :
+   - Présentation résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
+
+2. **Rapport de Synthèse** :
    - Rapport synthétique résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
 
 3. **Dashboard Power BI** :
