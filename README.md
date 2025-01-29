@@ -33,7 +33,10 @@ Ce projet inclut plusieurs livrables clés :
    - Notebook EDA, accessible via ce [lien](./notebooks/eda.ipynb) ([version md](./docs/eda.md)).
 
 2. **Présentation professionnelle** :
-   - Rapport synthétique résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
+   - Présentation résumant les analyses et les recommandations stratégiques avec les captures du dashboard, disponible [ici](./rapports/Présentation.pdf).
+
+3. **Rapport de Synthèse** :
+   - Rapport détaillé présentant la résolution du business case avec recommandations stratégiques, [lien direct](./rapports/rapport_synthese.md).
 
 3. **Dashboard Power BI** :
    - Une interface interactive permettant d'explorer les KPIs et les visualisations détaillées [lien vers le fichier](./rapports/Market-Price-Retail.pbix)
